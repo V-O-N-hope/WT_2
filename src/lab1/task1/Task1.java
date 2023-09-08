@@ -1,6 +1,6 @@
 package lab1.task1;
 
-public class task1 {
+public class Task1 {
 
     public static double x = 0;
     public static double y = 0;
