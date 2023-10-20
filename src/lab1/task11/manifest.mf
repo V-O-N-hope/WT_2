@@ -1,0 +1,2 @@
+main-class: lab1.task10.Main
+class-path: bin/
